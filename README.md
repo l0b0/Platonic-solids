@@ -1,4 +1,9 @@
 Platonic-solids
 ===============
 
-Minimal OpenSCAD models for the platonic solids
+OpenSCAD examples for the platonic solids:
+
+* Centered
+* Unit edges
+* Unit volume
+* Unit area
